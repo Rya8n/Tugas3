@@ -1,2 +1,3 @@
-# Tugas3
-Tugas 3 untuk Teknofest 2021
+Muhammad Ryan Rasyid
+1301200013
+IF-44-12
